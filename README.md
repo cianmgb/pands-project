@@ -1,7 +1,7 @@
 # pands-project
 Cian Project
 Research Fishers Iris Data Set
-Download Data Set, add to repository
+Download Data Set, add to repository - using https://evidencen.com/4-ways-to-load-data-in-jupyter-notebook-and-visual-studio-code/
 Write program called analysis.py
     Outputs  a summary of each variable to a text file
     Saves histogram of each variable to a png file
@@ -9,3 +9,5 @@ Write program called analysis.py
     Performs any other analysis.
 
 3. Research Fishers Data Set:
+
+Test uploads are working
