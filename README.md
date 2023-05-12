@@ -37,5 +37,5 @@ max	    7.9		            4.4		            6.9		            2.5
 This was compiled using the code found in lines 2 -7 of analysis.py
 
 Notes / References
-Note 1 - https://www.geeksforgeeks.org/python-basics-of-pandas-using-iris-dataset/ was used to pull the data set frrom the UCI repository into Python. This was my problem with the project yesterday, no matter how much I tried, pandas would not work. I got it going eventually! I was trying to import it from the website URL originally, no matter how I tried it wouldn't work, so I just took the data from the link
+Note 1 - https://www.geeksforgeeks.org/python-basics-of-pandas-using-iris-dataset/ was used to pull the data set frrom the UCI repository into Python. This was my problem with the project yesterday, no matter how much I tried, pandas would not work. I got it going eventually! I was trying to import it from the website URL originally, which didn't work, so I just downloaded the data from the link
 
