@@ -15,6 +15,10 @@ The class of Iris is associated with each set of measurements to help layout a s
 The dataset is significant in machine learning and data mining as it gives a pattern that can be followed with new data.
 The data was collected at the same time, by the same person, using the same apparatus, all from the same location, which means the measurements should all be consistent relative to one another. The person who collected the data is Ronald Fisher, a man known as the father of statistics, as he came up with methods of analysing small samples of data to produce principles that were ground-breaking in statistics.
 
+Per the website, there were two errors in the data, lines35 and 38 so I corrected these manually.
+
+To pull the data into VScode I found the following link to be helpful: https://www.listendata.com/2017/02/import-data-in-python.html , this described the import pandas as pd function.
+
 The summary of the data is found below:
 
 	    sepal_length	    sepal_width	        petal_length	    petal_width
@@ -37,5 +41,5 @@ max	    7.9		            4.4		            6.9		            2.5
 This was compiled using the code found in lines 2 -7 of analysis.py
 
 Notes / References
-Note 1 - https://www.geeksforgeeks.org/python-basics-of-pandas-using-iris-dataset/ was used to pull the data set frrom the UCI repository into Python. This was my problem with the project yesterday, no matter how much I tried, pandas would not work. I got it going eventually! I was trying to import it from the website URL originally, which didn't work, so I just downloaded the data from the link
+Note 1 - https://www.geeksforgeeks.org/python-basics-of-pandas-using-iris-dataset/ was used to pull the data set frrom the UCI repository into Python. This was my problem with the project yesterday, no matter how much I tried, pandas would not work. I got it going eventually! I was trying to import it from the website URL originally, which didn't work, so I just downloaded the data from the link and used that
 
