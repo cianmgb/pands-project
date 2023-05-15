@@ -54,4 +54,26 @@ min             4.300000          2.000000           1.000000          0.100000 
 max             7.900000          4.400000           6.900000          2.500000    2.000000
 
 
+## References
+
+
+Bhalla, D. (no date) How to import data in python, ListenData. Available at: https://www.listendata.com/2017/02/import-data-in-python.html (Accessed: 12 May 2023).
+
+Chris, K. (2022) With open in python – with statement syntax example, freeCodeCamp.org. Available at: https://www.freecodecamp.org/news/with-open-in-python-with-statement-syntax-example/ (Accessed: 11 May 2023)
+
+C, A. (no date) About Fisher’s Iris dataset. Available at: https://www.angela1c.com/projects/iris_project/the-iris-dataset/  (Accessed: 11 May 2023).
+
+Cui, Y. (2020) The iris dataset - A little bit of history and biology, Medium. Available at: https://towardsdatascience.com/the-iris-dataset-a-little-bit-of-history-and-biology-fb4812f5a7b5 (Accessed: 15 May 2023).
+
+MachineLearningPlus (2022) Pandas histogram, Machine Learning Plus. Available at: https://www.machinelearningplus.com/pandas/pandas-histogram/ (Accessed: 12 May 2023)
+
+Pandas dataframe describe() method (2023) GeeksforGeeks. Available at: https://www.geeksforgeeks.org/python-pandas-dataframe-describe-method/ (Accessed: 11 May 2023)
+
+Pandas – plotting (no date). Available at: https://www.w3schools.com/python/pandas/pandas_plotting.asp (Accessed: 13 May 2023).
+
+Pandas.dataframe.describe# (no date) pandas.DataFrame.describe - pandas 2.0.1 documentation. Available at: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.describe.html#:~:text=If%20include%3D%27all%27%20is,Describing%20a%20numeric%20Series%20  (Accessed: 12 May 2023).
+
+Piepenbreier, N. (2021) 4 tips to master python F-strings!, Medium. Available at: https://towardsdatascience.com/4-tips-to-master-python-f-strings-a70ca896faa4  (Accessed: 12 May 2023).
+
+Stack Overflow (No date) Writing a pandas DataFrame to CSV file, Stack Overflow. Available at: https://stackoverflow.com/questions/16923281/writing-a-pandas-dataframe-to-csv-file (Accessed: 11 May 2023).
 
